@@ -14,11 +14,13 @@ Um conversor de moedas em tempo real que utiliza a API ExchangeRate para obter c
 - ✅ Histórico das últimas conversões
 - ✅ Configuração fácil da chave API
 
-## 📦 Execução
-📦 Baixe o repositório
+## 📦 Baixe o repositório
 Clone o repositório:
 ```bash
 git clone https://github.com/g-horakhty/conv-moedas.git
 cd conv-moedas
+```
+## 📦 Execução
 ```bash
 java -jar ConversorMoedas.jar
+```
